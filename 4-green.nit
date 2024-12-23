@@ -1,9 +1,2 @@
-print "Hello, World"
-print "Hello, World"
-print "Hello, World"
-print "Hello, World"
-print "Hello, World"
-print "Hello, World"
-print "Hello, World"
-print "Hello!!"
-print "aaaaaaaa"
+000000000000000000000000000000000000000000000000000000000000
+00000
