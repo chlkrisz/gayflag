@@ -1,0 +1,8 @@
+puts(1, "Hello, World!\n")
+puts(2, "Hello, World!\n")
+puts(3, "Hello, World!\n")
+puts(4, "Hello, World!\n")
+puts(5, "Hello!\n")
+puts(6, "Hiii!\n")
+puts(7, "hhhhhhh\n")
+puts(8, "h\n")
